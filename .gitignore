@@ -1,6 +1,12 @@
-
-config.ini
-autocrew.log
+*.bak
 *.csv
+*.pyc
+.autocrew_update/*.*
+.autocrew_update
+.backup/*.*
+.backup
+autocrew.log
+config.ini
 scripts/*.*
 .vscode/*.*
+autocrew_update/
